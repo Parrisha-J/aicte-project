@@ -1,12 +1,5 @@
-
-
-need run python 3
-
-lib
-
-pip install cv2
-
 SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
+
 Problem Statement:
 
 With the increasing risk of data breaches and cyber threats, traditional encryption methods often draw attention to sensitive communications. This project focuses on developing a secure and covert method for hiding confidential messages within images using steganography. By embedding data into image pixels, this approach ensures secrecy while minimizing the likelihood of detection. The goal is to provide a reliable and user-friendly solution for secure information exchange without compromising visibility or integrity.
